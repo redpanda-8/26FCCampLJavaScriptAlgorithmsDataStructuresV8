@@ -1,0 +1,40 @@
+Legacy JavaScript Algorithms and Data Structures V8
+JavaScript, DOM, Object Oriented Programming (OOP), API.
+_____________________________________________________________________________________________
+Developers use HTML and CSS to control the content and styling of a page. And they use JavaScript to make that page interactive.
+
+In this JavaScript Algorithm and Data Structures Certification, you'll learn the JavaScript fundamentals like variables, arrays, objects, loops, functions, the DOM and more.
+
+You'll also learn about Object Oriented Programming (OOP), Functional Programming, algorithmic thinking, how to work with local storage, and how to fetch data using an API.
+_____________________________________________________________________________________________
+FULL LIST:
+(mostly workshops)
+1. Learn Introductory JavaScript by Building a Pyramid Generator __ 1-118
+2. Review JavaScript Fundamentals by Building a Gradebook App __ 1-4
+3. Learn Basic JavaScript by Building a Role Playing Game __ 1-173
+4. Learn Basic Debugging by Building a Random Background Color Changer __ 1-8
+5. Learn Form Validation by Building a Calorie Counter __ 1-97
+6. Review DOM Manipulation by Building a Rock, Paper, Scissors Game __ 1-6
+7. Learn Basic String and Array Methods by Building a Music Player __ 1-99
+8. Build a Palindrome Checker Project - CERTIFICATION PROJECT
+------------------------------------------------------------
+9. Learn the Date Object by Building a Date Formatter __ 1-27
+10. Learn Modern JavaScript Methods by Building Football Team Cards __ 1-45
+11. Learn localStorage by Building a Todo App __ 1-66
+12. Learn Recursion by Building a Decimal to Binary Converter __ 1-107
+13. Build a Roman Numeral Converter Project - CERTIFICATION PROJECT
+------------------------------------------------------------
+14. Learn Regular Expressions by Building a Spam Filter __ 1-36
+15. Learn Basic Algorithmic Thinking by Building a Number Sorter __ 1-45
+16. Learn Advanced Array Methods by Building a Statistics Calculator __ 1-59
+17. Learn Functional Programming by Building a Spreadsheet __ 1-105
+18. Build a Telephone Number Validator Project - CERTIFICATION PROJECT
+------------------------------------------------------------
+19. Learn Basic OOP by Building a Shopping Cart __ 1-60
+20. Learn Intermediate OOP by Building a Platformer Game __ 1-117
+21. Review Algorithmic Thinking by Building a Dice Game __ 1-15
+22. Build a Cash Register Project - CERTIFICATION PROJECT
+------------------------------------------------------------
+23. Learn Fetch and Promises by Building an fCC Authors Page __ 1-29
+24. Learn Asynchronous Programming by Building an fCC Forum Leaderboard __ 1-55
+25. Build an RPG Creature Search App Project - CERTIFICATION PROJECT
