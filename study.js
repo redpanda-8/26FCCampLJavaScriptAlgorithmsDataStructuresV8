@@ -18,3 +18,8 @@ for (const value of iterable) {
 for (const row of rows) {
   //“For each value of the array rows, temporarily call it row” - No indexes. No rows[i]. Just values.
 }
+
+return; // sustabdyti funkcija, nereikia grazinti duomenu
+return null; // operacija nepavyko
+return value; // kai funkcija turi grazinti rezultata
+condition ? valueIfTrue : valueIfFalse
